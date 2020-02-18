@@ -1,3 +1,12 @@
+In order to run this app, you'd need an `.env` file ([read more on environment variables](https://create-react-app.dev/docs/adding-custom-environment-variables/))
+
+```
+REACT_APP_HERE_API_KEY=your_here_api_key
+REACT_APP_GEONAMES_API_USERNAME=your_geonames_api_username
+```
+
+<!-- CRA README -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
